@@ -1,0 +1,13 @@
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\bin\Debug\netcoreapp3.1\Labstats_potatoes.exe
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\bin\Debug\netcoreapp3.1\Labstats_potatoes.deps.json
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\bin\Debug\netcoreapp3.1\Labstats_potatoes.runtimeconfig.json
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\bin\Debug\netcoreapp3.1\Labstats_potatoes.runtimeconfig.dev.json
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\bin\Debug\netcoreapp3.1\Labstats_potatoes.dll
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\bin\Debug\netcoreapp3.1\Labstats_potatoes.pdb
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.AssemblyInfoInputs.cache
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.AssemblyInfo.cs
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.csproj.CoreCompileInputs.cache
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.dll
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.pdb
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.genruntimeconfig.cache
+C:\Users\mtyra\Desktop\jobs\labstats\Labstats_potatoes\obj\Debug\netcoreapp3.1\Labstats_potatoes.csprojAssemblyReference.cache
